@@ -1,0 +1,5 @@
+[workspace]
+members = [
+	"e2ee",
+	"e2ee-cli"
+]
