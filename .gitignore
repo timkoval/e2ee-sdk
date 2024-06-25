@@ -1,2 +1,6 @@
-/target
-/.direnv
+target
+.direnv
+bindings
+ios
+android
+python

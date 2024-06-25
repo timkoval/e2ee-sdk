@@ -33,6 +33,7 @@
             cargo-edit
             cargo-watch
             cargo-workspaces
+            cargo-ndk
             rust-analyzer
           ];
           shellHook = ''

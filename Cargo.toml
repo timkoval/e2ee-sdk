@@ -1,5 +1,11 @@
 [workspace]
 members = [
 	"e2ee",
-	"e2ee-cli"
+	"e2ee-cli", 
+	"e2ee-sdk", 
+	"uniffi-bindgen"
 ]
+resolver = "2"
+
+[workspace.dependencies]
+uniffi = "0.28.0"
