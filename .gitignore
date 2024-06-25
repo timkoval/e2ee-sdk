@@ -3,4 +3,4 @@ target
 bindings
 ios
 android
-python
+**/__pycache__/**
